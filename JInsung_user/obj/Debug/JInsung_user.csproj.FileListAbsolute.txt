@@ -1,0 +1,11 @@
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.csproj.AssemblyReference.cache
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\Jinsung_User.logIn.resources
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.Properties.Resources.resources
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.csproj.GenerateResource.cache
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.csproj.CoreCompileInputs.cache
+C:\Users\park5\source\repos\JInsung_user\bin\Debug\JInsung_user.exe.config
+C:\Users\park5\source\repos\JInsung_user\bin\Debug\JInsung_user.exe
+C:\Users\park5\source\repos\JInsung_user\bin\Debug\JInsung_user.pdb
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.exe
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.pdb
+C:\Users\park5\source\repos\JInsung_user\obj\Debug\JInsung_user.SignUp.resources
